@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FotoIntent</string>
+    <string name="girar">Girar</string>
+    <string name="blancoYnegro">B&amp;W</string>
+    <string name="sepia">Sepia</string>
+    <string name="explorar">Explorar...</string>
+    <string name="guardar">Guardar</string>
+    <string name="imagenGuarda">Imagen guardada.</string>
+</resources>
